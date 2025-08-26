@@ -1,4 +1,8 @@
 # 🏎️ FORMULA 1 – 2025 Proxy-Grid Season Points Prediction
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+![Last Commit](https://img.shields.io/github/last-commit/ElfgulT/formula1-2025-grid-prediction)
+![Issues](https://img.shields.io/github/issues/ElfgulT/formula1-2025-grid-prediction)
 
 A modern Machine Learning pipeline for predicting F1 driver points / Proxy-Grid standings and projecting season outcomes (including Monte Carlo simulation).
 ---
