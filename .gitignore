@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+
+outputs/*
+!outputs/figs/
+
+# OS
+.DS_Store
+# Large artifacts
+*.joblib
+models/
